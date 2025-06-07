@@ -9,7 +9,7 @@ import { PostData } from '../../types/postTypes';
 const postsCollection = database.get('posts')
 
 
-export default function LoginScreen() {
+export default function BudgetScreen() {
     console.log(" hello screen");
     const [data, setData] = useState<any>("")
     

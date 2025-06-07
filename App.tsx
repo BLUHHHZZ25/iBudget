@@ -5,8 +5,5 @@ export default function App() {
   
   return(
       <RootNavigator/>
-    // <View>
-    //   <Text>hello world</Text>
-    // </View>
   )
 }
